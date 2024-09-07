@@ -6,3 +6,8 @@ h1{
     font-size: larger;
     background-color: rgb(21, 216, 53);
 }
+p{
+    color: red;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
